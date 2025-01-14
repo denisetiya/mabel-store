@@ -15,6 +15,7 @@ Proyek ini dibangun menggunakan berbagai teknologi terkini, baik di frontend, ba
 ### **Frontend** 🚀
 - **React**: Library JavaScript untuk membangun user interface yang **dinamis** dan **responsif**.
 - **TailwindCSS**: Framework CSS yang membantu dalam desain antarmuka dengan cepat dan fleksibel.
+- **TypeScript**: Superset JavaScript yang menambah tipe statis untuk meningkatkan kualitas kode dan pengembangan yang lebih terstruktur.
 - **ShadecnUI**: Komponen UI siap pakai untuk mempercepat pengembangan dan meningkatkan kualitas tampilan aplikasi.
 
 ### **Backend** 🔧
