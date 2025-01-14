@@ -1,49 +1,49 @@
 # **Mabel Store - Fullstack E-Commerce Project 🛒**
 
-Mabel Store adalah sebuah proyek yang masih dalam pengembangan, berupa **fullstack e-commerce** yang dibangun dengan teknologi-teknologi modern untuk memberikan pengalaman belanja online yang cepat, aman, dan efisien. Proyek ini menggabungkan berbagai tools dan framework untuk menciptakan platform yang **responsif**, **scalable**, dan **user-friendly**.
+Mabel Store is a **fullstack e-commerce project** currently under development. It leverages modern technologies to provide a fast, secure, and efficient online shopping experience. The project integrates multiple tools and frameworks to create a platform that is **responsive**, **scalable**, and **user-friendly**.
 
-## **Fitur Utama** ✨
-- **Tampilan Modern** 💻: Antarmuka pengguna yang interaktif dan responsif untuk pengalaman belanja terbaik.
-- **Pembayaran Aman** 💳: Sistem pembayaran yang didukung oleh **Midtrans**, memastikan transaksi yang aman dan mudah.
-- **Pengelolaan Produk** 📦: Menyediakan berbagai produk berkualitas dengan kategori yang beragam.
-- **Keamanan Data** 🔒: Penggunaan **OAuth** dan **Zod** untuk autentikasi dan validasi data yang aman.
+## **Key Features** ✨
+- **Modern Design** 💻: An interactive and responsive user interface for an exceptional shopping experience.
+- **Secure Payments** 💳: A payment system powered by **Midtrans**, ensuring safe and seamless transactions.
+- **Product Management** 📦: A wide range of high-quality products organized into diverse categories.
+- **Data Security** 🔒: Incorporating **OAuth** and **Zod** for secure authentication and data validation.
 
-## **Teknologi yang Digunakan** ⚙️
+## **Technologies Used** ⚙️
 
-Proyek ini dibangun menggunakan berbagai teknologi terkini, baik di frontend, backend, hingga sistem database:
+The project utilizes cutting-edge technologies across frontend, backend, and database systems:
 
 ### **Frontend** 🚀
-- **React**: Library JavaScript untuk membangun user interface yang **dinamis** dan **responsif**.
-- **TailwindCSS**: Framework CSS yang membantu dalam desain antarmuka dengan cepat dan fleksibel.
-- **TypeScript**: Superset JavaScript yang menambah tipe statis untuk meningkatkan kualitas kode dan pengembangan yang lebih terstruktur.
-- **ShadecnUI**: Komponen UI siap pakai untuk mempercepat pengembangan dan meningkatkan kualitas tampilan aplikasi.
+- **React**: A JavaScript library for building **dynamic** and **responsive** user interfaces.
+- **TailwindCSS**: A CSS framework for fast and flexible UI design.
+- **TypeScript**: A JavaScript superset adding static typing for improved code quality and structured development.
+- **ShadcnUI**: Ready-to-use UI components that accelerate development and enhance application aesthetics.
 
 ### **Backend** 🔧
-- **Express**: Framework Node.js untuk membangun backend yang ringan, **scalable**, dan **powerful**.
-- **Prisma**: ORM efisien untuk mengelola database dengan struktur yang lebih baik dan cepat.
-- **TypeScript**: Superset JavaScript yang menambah tipe statis untuk meningkatkan kualitas kode dan pengembangan yang lebih terstruktur.
+- **Express**: A Node.js framework for building lightweight, **scalable**, and **powerful** backend applications.
+- **Prisma**: An efficient ORM for managing databases with a structured and fast approach.
+- **TypeScript**: Enhances backend development with static typing, improving code reliability.
 
 ### **Database** 💾
-- **MongoDB**: Database NoSQL yang fleksibel untuk menyimpan data produk, pengguna, dan transaksi.
-- **Cloudinary**: Layanan cloud untuk mengelola dan mengoptimalkan media seperti gambar dan video produk.
+- **MongoDB**: A flexible NoSQL database to store product, user, and transaction data.
+- **Cloudinary**: A cloud service for managing and optimizing media, such as product images and videos.
 
-### **Pembayaran** 💸
-- **Midtrans**: Platform pembayaran online yang mendukung berbagai metode pembayaran dan memudahkan integrasi pembayaran di aplikasi.
+### **Payments** 💸
+- **Midtrans**: An online payment platform supporting various payment methods for seamless payment integration.
 
-### **Keamanan & Validasi** 🔐
-- **Zod**: Library TypeScript untuk validasi data yang aman dan memastikan integritas input pengguna.
-- **OAuth**: Protokol autentikasi yang aman untuk mengelola akses pengguna secara terkontrol.
+### **Security & Validation** 🔐
+- **Zod**: A TypeScript library for safe data validation, ensuring user input integrity.
+- **OAuth**: A secure authentication protocol for controlled user access management.
 
-## **Struktur Proyek** 🏗️
+## **Project Structure** 🏗️
 
-Proyek ini dibangun dengan pendekatan **fullstack**, menggabungkan frontend dan backend dalam satu aplikasi yang efisien. Backend menggunakan **Express** dengan integrasi database **MongoDB** yang terhubung ke frontend **React**. Pengguna dapat melakukan pendaftaran, login, dan bertransaksi dengan aman menggunakan sistem pembayaran **Midtrans**.
+The project adopts a **fullstack approach**, integrating frontend and backend into a cohesive and efficient application. The backend, built with **Express**, communicates with the **MongoDB** database and integrates seamlessly with the **React**-based frontend. Users can register, log in, and conduct secure transactions using the **Midtrans** payment system.
 
-### **Alur Pengembangan** 🔄
-1. **Frontend** dibangun dengan **React**, menggunakan **TailwindCSS** untuk styling, dan **ShadecnUI** untuk komponen siap pakai.
-2. **Backend** menggunakan **Express**, disertai **Prisma** untuk mengelola data dan berkomunikasi dengan **MongoDB**.
-3. **Pengelolaan Pembayaran** disediakan oleh **Midtrans**, yang memungkinkan transaksi dengan berbagai metode pembayaran.
-4. **Keamanan** dikelola menggunakan **OAuth** untuk autentikasi dan **Zod** untuk validasi data.
+### **Development Workflow** 🔄
+1. **Frontend**: Developed using **React**, styled with **TailwindCSS**, and enhanced with pre-built components from **ShadcnUI**.
+2. **Backend**: Built with **Express** and connected to **MongoDB** via **Prisma** for efficient data management.
+3. **Payment Integration**: Facilitated by **Midtrans**, allowing multiple payment methods.
+4. **Security**: Managed using **OAuth** for authentication and **Zod** for data validation.
 
 ## **Source Code** 🔗
-1. **[Frontend(cooming soon)]()** 💻
+1. **[Frontend (coming soon)]()** 💻  
 2. **[Backend](https://github.com/denisetiya/mabel-store-api.git)** 🔧
