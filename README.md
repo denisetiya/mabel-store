@@ -42,7 +42,7 @@ The project adopts a **fullstack approach**, integrating frontend and backend in
 1. **Frontend**: Developed using **React**, styled with **TailwindCSS**, and enhanced with pre-built components from **ShadcnUI**.
 2. **Backend**: Built with **Express** and connected to **MongoDB** via **Prisma** for efficient data management.
 3. **Payment Integration**: Facilitated by **Midtrans**, allowing multiple payment methods.
-4. **Security**: Managed using **OAuth** for authentication and **Zod** for data validation.
+4. **Security**: Managed using **OAuth** and **JWT** for authentication and **Zod** for data validation.
 
 ## **Source Code** 🔗
 1. **[Frontend (coming soon)]()** 💻  
