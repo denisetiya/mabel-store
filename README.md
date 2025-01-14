@@ -1,6 +1,6 @@
 # **Mabel Store - Fullstack E-Commerce Project 🛒**
 
-Mabel Store adalah sebuah proyek **fullstack e-commerce** yang dibangun dengan teknologi-teknologi modern untuk memberikan pengalaman belanja online yang cepat, aman, dan efisien. Proyek ini menggabungkan berbagai tools dan framework untuk menciptakan platform yang **responsif**, **scalable**, dan **user-friendly**.
+Mabel Store adalah sebuah proyek yang masih dalam pengembangan, berupa **fullstack e-commerce** yang dibangun dengan teknologi-teknologi modern untuk memberikan pengalaman belanja online yang cepat, aman, dan efisien. Proyek ini menggabungkan berbagai tools dan framework untuk menciptakan platform yang **responsif**, **scalable**, dan **user-friendly**.
 
 ## **Fitur Utama** ✨
 - **Tampilan Modern** 💻: Antarmuka pengguna yang interaktif dan responsif untuk pengalaman belanja terbaik.
@@ -43,6 +43,6 @@ Proyek ini dibangun dengan pendekatan **fullstack**, menggabungkan frontend dan 
 3. **Pengelolaan Pembayaran** disediakan oleh **Midtrans**, yang memungkinkan transaksi dengan berbagai metode pembayaran.
 4. **Keamanan** dikelola menggunakan **OAuth** untuk autentikasi dan **Zod** untuk validasi data.
 
-## **Link Proyek** 🔗
+## **Source Code** 🔗
 1. **[Frontend(cooming soon)]()** 💻
 2. **[Backend](https://github.com/denisetiya/mabel-store-api.git)** 🔧
