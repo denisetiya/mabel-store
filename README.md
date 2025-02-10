@@ -8,7 +8,7 @@ Mabel Store is a **fullstack e-commerce project** currently under development. I
 ## **Technologies Used** ⚙️
 The project utilizes cutting-edge technologies across frontend, backend, and database systems:
 ### **Frontend** 🚀
-- **React**: A JavaScript library for building **dynamic** and **responsive** user interfaces.
+- **Svelte**: A Frontend Framework for building **dynamic** and **responsive** user interfaces.
 - **TailwindCSS**: A CSS framework for fast and flexible UI design.
 - **TypeScript**: A JavaScript superset adding static typing for improved code quality and structured development.
 - **ShadcnUI**: Ready-to-use UI components that accelerate development and enhance application aesthetics.
@@ -32,5 +32,5 @@ The project adopts a **fullstack approach**, integrating frontend and backend in
 3. **Payment Integration**: Facilitated by **Midtrans**, allowing multiple payment methods.
 4. **Security**: Managed using **OAuth** and **JWT** for authentication and **Zod** for data validation.
 ## **Source Code** 🔗
-1. **[Frontend (coming soon)]()** 💻  
+1. **[Frontend (https://github.com/denisetiya/mebel-store-web.git)** 💻  
 2. **[Backend](https://github.com/denisetiya/single-store-api.git)** 🔧
