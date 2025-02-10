@@ -32,5 +32,5 @@ The project adopts a **fullstack approach**, integrating frontend and backend in
 3. **Payment Integration**: Facilitated by **Midtrans**, allowing multiple payment methods.
 4. **Security**: Managed using **OAuth** and **JWT** for authentication and **Zod** for data validation.
 ## **Source Code** 🔗
-1. **[Frontend] (https://github.com/denisetiya/mebel-store-web.git)** 💻  
+1. **[Frontend](https://github.com/denisetiya/mebel-store-web.git)** 💻  
 2. **[Backend](https://github.com/denisetiya/single-store-api.git)** 🔧
